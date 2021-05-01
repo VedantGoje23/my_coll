@@ -48,42 +48,42 @@ $(document).ready(function(){
       {
       breakpoint: 750,
       settings: {
-        slidesToShow: 4.5,
+        slidesToShow: 3.5,
         slidesToScroll: 2
       }
     },
       {
       breakpoint: 695,
       settings: {
-        slidesToShow: 4,
+        slidesToShow: 3,
         slidesToScroll: 2
       }
     },
     {
       breakpoint: 651,
       settings: {
-        slidesToShow: 4,
+        slidesToShow: 3,
         slidesToScroll: 2
       }
     },
       {
       breakpoint: 575,
       settings: {
-        slidesToShow: 3.5,
+        slidesToShow: 3,
         slidesToScroll: 1
       }
     },
     {
-      breakpoint: 405,
+      breakpoint: 524,
       settings: {
-        slidesToShow: 3,
+        slidesToShow: 2,
         slidesToScroll: 1
       }
     },
       {
       breakpoint: 330,
       settings: {
-        slidesToShow: 2,
+        slidesToShow: 1,
         slidesToScroll: 1
       }
     },
