@@ -720,6 +720,7 @@ nav .search_icon .active .full .search_block{
 /*music mobile*********************************************/
 /*music mobile*********************************************/
 /*music mobile*********************************************/
+/*
 @media (max-width:770px){
 .music_slider{
     margin-top: 15px;
@@ -778,6 +779,7 @@ nav .search_icon .active .full .search_block{
      margin-top: -55px;
             }
 }
+*/
 /******************************************************************************************/
 /*music card 2*/
 /*music card 2*/
@@ -985,6 +987,7 @@ nav .search_icon .active .full .search_block{
     font-size: 30px;
     transform: translateY(-1px);
 }
+/*
     
 @media (max-width:770px){
         
@@ -1012,6 +1015,7 @@ nav .search_icon .active .full .search_block{
 }
        
     }
+*/
 
 
 /*photo slider 2*****************************************************************/
